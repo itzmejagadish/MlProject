@@ -1,0 +1,5 @@
+2026-09-11 00:04:23,662 19 root- INFO - Logging has started.
+2026-09-11 00:04:23,663 20 root- INFO - This is an info message.
+2026-09-11 00:04:23,663 21 root- WARNING - This is a warning message.
+2026-09-11 00:04:23,663 22 root- ERROR - This is an error message.
+2026-09-11 00:04:23,664 23 root- CRITICAL - This is a critical message.

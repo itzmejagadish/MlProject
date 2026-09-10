@@ -1,0 +1,5 @@
+2026-09-11 00:02:17,562 - INFO - Logging has started.
+2026-09-11 00:02:17,562 - INFO - This is an info message.
+2026-09-11 00:02:17,562 - WARNING - This is a warning message.
+2026-09-11 00:02:17,562 - ERROR - This is an error message.
+2026-09-11 00:02:17,562 - CRITICAL - This is a critical message.
